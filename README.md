@@ -81,19 +81,3 @@ Generate badges (language, license, etc.)
 Convert this to a GUI or advanced system
 
 Would you like me to add database or file storage features next?
-
-
-
-
-
-
-
-
-
-
-
-Tools
-
-
-
-ChatGPT can make mistakes. Check important info. See Cookie Prefe
